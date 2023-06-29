@@ -1,0 +1,15 @@
+.dashboard_title {
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    max-width: 100%;
+    text-align: left !important;
+    margin-bottom: 4vh;
+}
+
+.topCollection-name {
+    display: flex;
+    cursor: pointer;
+    color: white
+}
+

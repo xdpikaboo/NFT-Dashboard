@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  background-color: #0e1217;
+}
+
+html,body{
+  overflow-x: hidden;
+  overscroll-behavior: none
+}
+
+.MuiTableRow-root:hover { 
+  background-color: rgb(54, 57, 91) !important;
+}
+
+.MuiTypography-h6{
+  color: white;
+  overflow: auto;
+  font-weight: bold;
+}
+
+.MuiTablePagination-root {
+  color: white !important;
+}
+
+.MuiTablePagination-selectLabel {
+  color: white !important;
+}
+
+.MuiTypography-caption {
+  color: white !important;
+}
+
+.MuiTablePagination-selectIcon {
+  color: white !important
+}
+
+.MuiTableSortLabel-root {
+  color: #A8B3CF !important
+}
+
+.MuiTableCell-root {
+  border-bottom: none !important;
+  color: white !important;
+}
